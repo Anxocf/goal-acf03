@@ -1,0 +1,1 @@
+prueba de touch + gedit para crear y editar texto.
